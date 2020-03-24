@@ -4,7 +4,8 @@ comments: true
 title:  "How to Start Your Android Development Journey?"
 excerpt: " Intro how to start the Android Devlopment Journey"
 date:   2020-03-24 11:00:00
-mathjax: false
+categories: [ANDROID_DEVLOPMENT,GETTING_STARTED]
+tags: [androidstart]    
 ---
 
 
