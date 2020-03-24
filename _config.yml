@@ -8,14 +8,12 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: Rishi Agrawal blogs                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: A learning focused blog.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+ Here I tried to explain all the technical concept using simple triks and tatics
 
 # Replace with your domain, e.g. 'https://username.github.io'
 url: 'protocol://https://rishiagrawal2609.github.io/'
@@ -35,11 +33,11 @@ social:
   email: rishiagrawal2609@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/rishiagrawal26      # change to your twitter homepage
-    - https://github.com/rishiagrawal2609       # change to your github homepage
+    -https://twitter.com/rishiagrawal26      # change to your twitter homepage
+    -https://github.com/rishiagrawal2609       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/rishi-agrawal-730664191/
+     -https://www.linkedin.com/in/rishi-agrawal-730664191/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
