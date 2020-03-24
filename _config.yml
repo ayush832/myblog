@@ -18,42 +18,42 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'protocol://https://rishiagrawal2609.github.io/'
 
-author: your_full_name                  # change to your full name
+author: Rishi Agrawal                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/pp.jfif   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: rishiagrawal2609             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: @rishiagrawal26           # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Rishi Agrawal                  # it will shows as the copyright owner in Footer
+  email: rishiagrawal2609@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/rishiagrawal26      # change to your twitter homepage
+    - https://github.com/rishiagrawal2609       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.linkedin.com/in/rishi-agrawal-730664191/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
 #--------------------------
 
 # if your site type is Project Pages site, change below value to '/projectname'
-baseurl: ''
+baseurl: '/myblog'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 google_analytics:
   # Fill with your Google Analytics ID
-  id: ''
+  id: 'UA-161744708-1'
   # The Google Analytics pageviews switch.
   # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
   pv: false
