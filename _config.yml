@@ -35,7 +35,7 @@ social:
   email: rishiagrawal2609@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/rishiagrawal26      # change to your twitter homepage
+    #- https://twitter.com/rishiagrawal26      # change to your twitter homepage
     - https://github.com/rishiagrawal2609       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
