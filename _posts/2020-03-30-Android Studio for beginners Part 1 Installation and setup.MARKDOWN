@@ -2,7 +2,7 @@
 layout: post
 title:  "Android Studio for beginners,Part 1: Installation and setup"
 excerpt: " Part 1: Installation and setup"
-date:   2020-03-30 11:00:00
+date:   2020-03-30 02:00:00
 categories: [ANDROID_DEVLOPMENT,PART1]
 tags: [intallation and setup]    
 ---
@@ -65,3 +65,6 @@ Once you've ensured that your operating system is compatible with Android Studio
 
 #### [Link to download android studio](https://developer.android.com/studio)
 
+## Installing Android Studio on 64-bit Windows 10
+I am going to show how to install Android Studio on windows 10 only as I don't have access to MacOS or Linux.<br>
+I launched '''android-studio-ide-181.5056338-windows.exe''' to start the installation process. The installer responded by presenting the <b>Android Studio Setup</b> dialog box shown in Figure 1.
