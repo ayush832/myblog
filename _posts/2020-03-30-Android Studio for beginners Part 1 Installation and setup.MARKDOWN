@@ -6,7 +6,7 @@ date:   2020-03-30 02:00:00
 categories: [ANDROID_DEVLOPMENT,PART1]
 tags: [intallation and setup]    
 ---
-![intro](https://raw.githubusercontent.com/rishiagrawal2609/myblog/assets/img/blog2/intro.jpg)<br>
+![intro](images/into.jpg)<br>
 For some years now it's been clear that Android is a force to be reckoned with in the mobile OS landscape. This Java-based technology has sparked a new gold rush, with programmers competing to make money from their mobile apps.<br>
 To be successful, Android developers need a good grasp of the Java language (or Kotlin), Android APIs, and Android application architecture. It's also important to use an appropriate and effective development environment. For many years, Eclipse IDE with the ADT plugin was the preferred platform for Android development. Today, it's Android Studio.<br>
 In this blog, I'll briefly introduce the Android development platform, then show you how to download, install, and run the software. <br>
