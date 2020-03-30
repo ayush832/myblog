@@ -80,68 +80,71 @@ I kept the default installation location and clicked Next, and was greeted with 
 ![Intro]({{site.baseurl}}/assets/images/fig4.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 I kept the default setting and clicked Install. The following Installing panel appeared.This panel shows the progress of the installation:<br>
-![Intro]({{site.baseurl}}/assets/images/fig6.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig5.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 Clicking Show details causes the names of files being installed and other activities to be displayed. When installation finished, the Installation Complete panel appeared.<br>
-![Intro]({{site.baseurl}}/assets/images/fig7.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig6.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 After clicking Next, the installer presented the Completing Android Studio Setup panel.<br>
-![Intro]({{site.baseurl}}/assets/images/fig8.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig7.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 To complete the installation, I left the Start Android Studio box checked and clicked Finish.<br>
-![Intro]({{site.baseurl}}/assets/images/fig9.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig8.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 
 
 ## Running Android Studio
 The first time Android Studio runs, it presents a Complete Installation dialog box that offers the option of importing settings from a previous installation.<br>
-![Intro]({{site.baseurl}}/assets/images/fig10.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig9.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 I chose not to import settings (the default selection) and clicked OK, and was rewarded with the following splash screen:<br>
-![Intro]({{site.baseurl}}/assets/images/fig11.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig10.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 I also observed the following Finding Available SDK Components message box.<br>
-![Intro]({{site.baseurl}}/assets/images/fig12.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig11.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 At this point, Android Studio presented the following Android Studio Setup Wizard dialog box:<br>
-![Intro]({{site.baseurl}}/assets/images/fig13.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig12.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 I clicked Next, and the wizard invited me to select an installation type. I kept the default standard setting.<br>
-![Intro]({{site.baseurl}}/assets/images/fig14.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig13.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 I was then given the opportunity to choose a user interface theme.<br>
-![Intro]({{site.baseurl}}/assets/images/fig15.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig14.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 I kept the default IntelliJ setting and clicked Next. Android Studio next provided the opportunity to verify settings.<br>
-![Intro]({{site.baseurl}}/assets/images/fig16.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig15.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 I clicked Finish and Android Studio began the process of downloading SDK components.<br>
-![Intro]({{site.baseurl}}/assets/images/fig17.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig16.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 It can take several minutes for this part of the setup to finish. Clicking Show Details might relieve some boredom by revealing the various files being downloaded and unzipped.<br>
-![Intro]({{site.baseurl}}/assets/images/fig18.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig17.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 For my AMD-based computer, an unpleasant surprise awaited after the components had completely downloaded and unzipped:<br>
-![Intro]({{site.baseurl}}/assets/images/fig19.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig18.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 My options are to either put up with the slow emulator or use an Android device to speed up development. In later blog, I'll show you how I resolved this issue and how to use android device with you as a emulator.<br>
-![Intro]({{site.baseurl}}/assets/images/fig20.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig19.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 Finally, I clicked Finish to complete the wizard. The Welcome to Android Studio dialog box appeared.<br>
-![Intro]({{site.baseurl}}/assets/images/fig21.jpg){: style="max-width: 99%; max-height: 99%;"}
+![Intro]({{site.baseurl}}/assets/images/fig20.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 This dialog box is used to start up a new Android Studio project, work with an existing project, and more. It can be accessed by selecting Android Studio from the Windows Start menu, or the equivalent on another platform.<br>
 ## Your first Android Studio Project
 From our setup so far, you should still have Android Studio running with the Welcome to Android Studio dialog box. From here, click Start a new Android Studio project. Android Studio will respond with the Create New Project dialog box.<br>
-
+![Intro]({{site.baseurl}}/assets/images/fig21.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 Enter HelloWorld as the application name and the company domain name will be processed automatically. On my desktop, I observed C:\Users\Rishi\AndroidStudioProjects\HelloWorld as the project location. Click Next to select your target devices.<br>
+![Intro]({{site.baseurl}}/assets/images/fig22.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 Android Studio lets you select form factors, or categories of target devices, for every app you create. I kept the default setting.<br>
 
 Click Next, and you will be given the opportunity to choose a template for your app's main activity. For now we'll stick with Empty Activity. Select this template (if necessary) and click Next.<br>
+![Intro]({{site.baseurl}}/assets/images/fig23.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 Next you'll customize the activity:<br>
+![Intro]({{site.baseurl}}/assets/images/fig24.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
 Leave that to defaults and move forward<br>
 <br>
@@ -150,7 +153,9 @@ The first time you use Android Studio, you'll discover that it has to download s
 Android Studio enables Finish after downloading the constraint layout files. Click this button and Android Studio takes you to the main window.<br>
 <br>
 The main window is divided into a menu bar and several other areas, which are identified in nex two Figures. (Note that both Figures are courtesy of [Google](https://www.google.com/).)<br>
+![Intro]({{site.baseurl}}/assets/images/fig25.jpg){: style="max-width: 99%; max-height: 99%;"}
 <br>
+![Intro]({{site.baseurl}}/assets/images/fig26.jpg){: style="max-width: 99%; max-height: 99%;"}
 ## The Project and editor windows
 When you enter the main window, you observe the Project window showing only app and Gradle Scripts. You'll have to expand the app branch of the project tree to observe more details.<br>
 The Project window is organized into a tree whose main branches are app and Gradle Scripts. The app branch is further organized into manifests, java, generatedJava, and res subbranches:
