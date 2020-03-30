@@ -6,7 +6,7 @@ date:   2020-03-30 02:00:00
 categories: [ANDROID_DEVLOPMENT,PART1]
 tags: [intallation and setup]    
 ---
-# Android Studio for beginners, Part 1: Installation and setup
+![intro](https://raw.githubusercontent.com/rishiagrawal2609/myblog/assets/img/blog2/intro.jpg)<br>
 For some years now it's been clear that Android is a force to be reckoned with in the mobile OS landscape. This Java-based technology has sparked a new gold rush, with programmers competing to make money from their mobile apps.<br>
 To be successful, Android developers need a good grasp of the Java language (or Kotlin), Android APIs, and Android application architecture. It's also important to use an appropriate and effective development environment. For many years, Eclipse IDE with the ADT plugin was the preferred platform for Android development. Today, it's Android Studio.<br>
 In this blog, I'll briefly introduce the Android development platform, then show you how to download, install, and run the software. <br>
@@ -67,7 +67,7 @@ Once you've ensured that your operating system is compatible with Android Studio
 
 ## Installing Android Studio on 64-bit Windows 10
 I am going to show how to install Android Studio on windows 10 only as I don't have access to MacOS or Linux.<br>
-I launched ```android-studio-ide-181.5056338-windows.exe``` to start the installation process. The installer responded by presenting the <b>Android Studio Setup</b> dialog box shown in Figure 1.<br>
+I launched ```android-studio-ide-181.5056338-windows.exe``` to start the installation process. The installer responded by presenting the <b>Android Studio Setup</b> dialog box shown in Figure.<br>
 <br>
 Clicking Next took me to the following panel, which provides the option to decline installing an Android Virtual Device (AVD).<br>
 <br>
